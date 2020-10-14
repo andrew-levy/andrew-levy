@@ -1,5 +1,10 @@
-Welcome to my GitHub! ⚛️
+Welcome to my GitHub!
 -
+
+What I like to use to build my ideas:
+- React
+- Next.js
+- SwiftUI
 
 
 
