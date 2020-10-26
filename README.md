@@ -1,9 +1,10 @@
 Welcome to my GitHub!
 -
 
-What I like to use to build my ideas:
+What I like to use to build my projects:
 - React
 - Next.js
+- React Native
 - SwiftUI
 
 
