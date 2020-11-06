@@ -1,11 +1,11 @@
-Welcome to my GitHub!
+Andrew Levy
 -
 
 What I like to use to build my projects:
-- React
-- Next.js
-- React Native
-- SwiftUI
+- :atom_symbol: React 
+- :desktop_computer: Next.js 
+- :vibration_mode: React Native
+- :iphone: SwiftUI 
 
 
 
